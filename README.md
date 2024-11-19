@@ -1,5 +1,5 @@
 # Portefolio
-Portfolio website created as part of an exercise on the platform.
+Portfolio website created as part of an exercise at La Plateforme_.
 
 Template created with Bootstrap Studio
 
